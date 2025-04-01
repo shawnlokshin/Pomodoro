@@ -10,6 +10,7 @@ This project is sponsored by [Yoursponsor.com](http://example.com). Thank you fo
 ## How to Run
 - Install dependencies: `pip install pygame plyer`
 - Install necessary files: 'pomodoro_timer1.py' and 'pomodoro_25_5.png'
+- Make sure to cd (change directory) into the folder where you installed the files (i.e. 'cd downloads')
 - Run the script in your command prompt: `python pomodoro_timer1.py`
 
 ## Contributing
