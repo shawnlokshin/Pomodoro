@@ -17,4 +17,4 @@ This project is sponsored by [Yoursponsor.com](http://example.com). Thank you fo
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Contact
-Follow me on LinkedIn: [Shawn Lokshin](https://www.linkedin.com/in/shawnlokshin)
+Follow me on LinkedIn: [Shawn Lokshin](https://www.linkedin.com/in/shawn-lokshin/)
